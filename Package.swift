@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-private let dsependencies: [Package.Dependency] = [
+private let dependencies: [Package.Dependency] = [
     .package(url: "https://github.com/arman095095/Module.git", branch: "develop"),
 ]
 
